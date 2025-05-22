@@ -23,7 +23,6 @@ import PrivateRoute from "./components/PrivateRoute";
 import PaymentScreen from "./screens/PaymentScreen";
 import PlaceOrderScreen from "./screens/PlaceOrderScreen";
 import OrderScreen from "./screens/OrderScreen";
-import { PayPalScriptProvider } from "@paypal/react-paypal-js";
 import PayPalProviderWrapper from "./components/PaypalProviderWrapper";
 import ProfileScreen from "./screens/ProfileScreen";
 import AdminRoute from "./components/AdminRoute";
